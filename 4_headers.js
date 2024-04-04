@@ -6,8 +6,10 @@ export const options = {
     iterations:20
 };
 
+let auth_token = 'Bearer d04a0e80612e604118da98ef7b389287f795e4f5cead29e2bac431dd4118317d'
+
 let headers_api ={
-    'Authorization' : 'Bearer d04a0e80612e604118da98ef7b389287f795e4f5cead29e2bac431dd4118317d'
+    'Authorization' : auth_token
 }
 
 export default function(){

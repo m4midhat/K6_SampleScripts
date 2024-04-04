@@ -1,6 +1,6 @@
 # Welcome to K6 Sample scripts!
 
-Hi! I'm Midhat Rosull, welcome to my page for sample k6 scripts. Here are few of the scripts for your reference to learn K6 from scratch
+Hi! I'm Midhat Rosull, welcome to my page for sample k6 scripts. Here are few of the scripts for your reference to learn K6 
 
 # Files
 
